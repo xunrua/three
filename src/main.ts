@@ -13,6 +13,7 @@ import material from "./lessons/06-material";
 import threeDText from "./lessons/07-3D-text";
 import light from "./lessons/08-light";
 import shadows from "./lessons/09-shadows";
+import ghostHouse from "./lessons/10-ghost-house";
 
 // 学习模块列表
 const lessons: Lesson[] = [
@@ -25,6 +26,7 @@ const lessons: Lesson[] = [
   threeDText,
   light,
   shadows,
+  ghostHouse,
 ];
 
 // 分类图标映射
