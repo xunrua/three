@@ -1,0 +1,25 @@
+{
+  "name": "three",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "typescript": "~5.9.3",
+    "vite": "^8.0.0-beta.13",
+    "@types/three": "^0.183.1"
+  },
+  "overrides": {
+    "vite": "^8.0.0-beta.13"
+  },
+  "dependencies": {
+    "gsap": "3.5.1",
+    "lil-gui": "^0.21.0",
+    "lucide": "^0.577.0",
+    "three": "^0.183.2"
+  }
+}
